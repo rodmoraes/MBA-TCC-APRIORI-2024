@@ -1,0 +1,26 @@
+product_id,product_name,category,price
+1,Coca-Cola,Bebidas,55.75
+2,Água Mineral,Bebidas,50.46
+3,Suco de Laranja,Bebidas,70.55
+4,Cerveja,Bebidas,1.6
+5,Vinho Tinto,Bebidas,4.28
+6,Shampoo,Higiene,39.37
+7,Sabonete,Higiene,12.93
+8,Pasta de Dente,Higiene,13.28
+9,Desodorante,Higiene,34.68
+10,Papel Higiênico,Higiene,55.63
+11,Arroz,Alimentos,24.99
+12,Feijão,Alimentos,66.44
+13,Macarrão,Alimentos,93.04
+14,Carne Moída,Alimentos,96.19
+15,Leite,Alimentos,13.38
+16,Sabão em Pó,Limpeza,13.85
+17,Detergente,Limpeza,84.09
+18,Esponja,Limpeza,53.81
+19,Água Sanitária,Limpeza,48.44
+20,Multiuso,Limpeza,44.68
+21,Fone de Ouvido,Eletrônicos,15.96
+22,Carregador USB,Eletrônicos,68.97
+23,Pilha,Eletrônicos,4.06
+24,Lâmpada LED,Eletrônicos,93.11
+25,Bateria,Eletrônicos,75.73
